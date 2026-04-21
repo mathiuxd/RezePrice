@@ -1,0 +1,15 @@
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/bin/Debug/net10.0/RezePrice.Application.deps.json
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/bin/Debug/net10.0/RezePrice.Application.dll
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/bin/Debug/net10.0/RezePrice.Application.pdb
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/bin/Debug/net10.0/RezePrice.Domain.dll
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/bin/Debug/net10.0/RezePrice.Domain.pdb
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.csproj.AssemblyReference.cache
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.AssemblyInfoInputs.cache
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.AssemblyInfo.cs
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.csproj.CoreCompileInputs.cache
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePric.ADD7AC13.Up2Date
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.dll
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/refint/RezePrice.Application.dll
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.pdb
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/ref/RezePrice.Application.dll

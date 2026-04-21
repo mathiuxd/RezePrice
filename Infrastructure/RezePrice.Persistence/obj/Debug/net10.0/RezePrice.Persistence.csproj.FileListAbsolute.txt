@@ -1,0 +1,15 @@
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/bin/Debug/net10.0/RezePrice.Persistence.deps.json
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/bin/Debug/net10.0/RezePrice.Persistence.dll
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/bin/Debug/net10.0/RezePrice.Persistence.pdb
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/bin/Debug/net10.0/RezePrice.Domain.dll
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/bin/Debug/net10.0/RezePrice.Domain.pdb
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.csproj.AssemblyReference.cache
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.AssemblyInfoInputs.cache
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.AssemblyInfo.cs
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.csproj.CoreCompileInputs.cache
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePric.ECFDDC5E.Up2Date
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.dll
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/refint/RezePrice.Persistence.dll
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.pdb
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/ref/RezePrice.Persistence.dll

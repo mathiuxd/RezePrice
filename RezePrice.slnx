@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/RezePrice.Application/RezePrice.Application.csproj" />
+    <Project Path="Core/RezePrice.Domain/RezePrice.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/RezePrice.Persistence/RezePrice.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/Presenter/">
+    <Project Path="Presenter/RezePrice.Web/RezePrice.Web.csproj" />
+  </Folder>
+</Solution>
