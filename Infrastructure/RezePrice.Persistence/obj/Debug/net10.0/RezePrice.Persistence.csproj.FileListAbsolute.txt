@@ -13,3 +13,4 @@
 /home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/refint/RezePrice.Persistence.dll
 /home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.pdb
 /home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/ref/RezePrice.Persistence.dll
+/home/mathiu/workspace/RezePrice/Infrastructure/RezePrice.Persistence/obj/Debug/net10.0/RezePrice.Persistence.sourcelink.json

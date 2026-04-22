@@ -13,3 +13,4 @@
 /home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/refint/RezePrice.Application.dll
 /home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.pdb
 /home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/ref/RezePrice.Application.dll
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Application/obj/Debug/net10.0/RezePrice.Application.sourcelink.json

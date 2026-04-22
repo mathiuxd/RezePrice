@@ -9,3 +9,4 @@
 /home/mathiu/workspace/RezePrice/Core/RezePrice.Domain/obj/Debug/net10.0/refint/RezePrice.Domain.dll
 /home/mathiu/workspace/RezePrice/Core/RezePrice.Domain/obj/Debug/net10.0/RezePrice.Domain.pdb
 /home/mathiu/workspace/RezePrice/Core/RezePrice.Domain/obj/Debug/net10.0/ref/RezePrice.Domain.dll
+/home/mathiu/workspace/RezePrice/Core/RezePrice.Domain/obj/Debug/net10.0/RezePrice.Domain.sourcelink.json

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RezePrice.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3817f3955471e1f18776435400726d7b6a8a09ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("RezePrice.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RezePrice.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

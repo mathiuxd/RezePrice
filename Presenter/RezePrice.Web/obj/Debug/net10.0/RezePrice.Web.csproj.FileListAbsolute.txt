@@ -37,3 +37,4 @@
 /home/mathiu/workspace/RezePrice/Presenter/RezePrice.Web/obj/Debug/net10.0/RezePrice.Web.pdb
 /home/mathiu/workspace/RezePrice/Presenter/RezePrice.Web/obj/Debug/net10.0/RezePrice.Web.genruntimeconfig.cache
 /home/mathiu/workspace/RezePrice/Presenter/RezePrice.Web/obj/Debug/net10.0/ref/RezePrice.Web.dll
+/home/mathiu/workspace/RezePrice/Presenter/RezePrice.Web/obj/Debug/net10.0/RezePrice.Web.sourcelink.json
